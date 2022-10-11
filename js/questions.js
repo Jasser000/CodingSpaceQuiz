@@ -56,6 +56,39 @@ let questions = [
       "val num=5;"
     ]
   },
+  {
+    numb: 6,
+    question: "How can you create a variable with the numeric value 5?",
+    answer: "int num=5;",
+    options: [
+      "num=5;",
+      "int num=5;",
+      "num=5 int;",
+      "val num=5;"
+    ]
+  },
+  {
+    numb: 7,
+    question: "How can you create a variable with the numeric value 5?",
+    answer: "int num=5;",
+    options: [
+      "num=5;",
+      "int num=5;",
+      "num=5 int;",
+      "val num=5;"
+    ]
+  },
+  {
+    numb: 8,
+    question: "How can you create a variable with the numeric value 5?",
+    answer: "int num=5;",
+    options: [
+      "num=5;",
+      "int num=5;",
+      "num=5 int;",
+      "val num=5;"
+    ]
+  },
   // you can uncomment the below codes and make duplicate as more as you want to add question
   // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
 
